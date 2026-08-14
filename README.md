@@ -1,7 +1,6 @@
 Christine Tsafong M.N Business Intelligence Analyst, README 
 
 
- 
 Je suis Christine, Business Intelligence Analyste spécialisée dans la transformation des données en leviers de performance. Mon parcours unique, mêlant analyse de données, gestion d’entreprise, finance, et optimisation opérationnelle, me permet d’apporter une vision à la fois technique, stratégique et orientée résultats.
 Je crée des solutions analytiques qui clarifient, optimisent et accélèrent la prise de décision dans les organisations.
 Ma proposition de valeur
@@ -15,6 +14,7 @@ Je me distingue par ma capacité à structurer le chaos, à simplifier le comple
 
 Pourquoi Moi?
 Je transforme les données en décisions claires, et les décisions en résultats mesurables. J’apporte une combinaison rare : rigueur analytique, vision business et excellence opérationnelle.
+
 •	Je livre des analyses actionnables, pas seulement des graphiques.
 •	Je simplifie le complexe pour aider les décideurs à aller plus vite.
 •	Je comprends l’entreprise autant que la data: performance, coûts, stratégie, croissance.
@@ -23,6 +23,7 @@ Je transforme les données en décisions claires, et les décisions en résultat
 En bref : je suis l’analyste qui crée de la valeur.
 
 Compétences techniques
+
 •	Python: Pandas, NumPy, Matplotlib, Seaborn,..
 •	Machine Learning: clustering, régression, validation croisée, Random Forest, …
 •	Google Colab
@@ -32,6 +33,7 @@ Compétences techniques
 •	Statistiques & probabilités
 
 Projets sélectionnés 
+
  Analysis of Stock Market Data
 Projet complet d’analyse prédictive sur données boursières.
 Ce que j’ai réalisé :
@@ -64,6 +66,7 @@ Compétences clés
 •	Communication analytique claire et orientée business
 
 Vision professionnelle
+
 Je veux contribuer à la croissance des organisations en développant des solutions analytiques qui créent de la valeur, réduisent les incertitudes, et renforcent la performance. À long terme, je souhaite mettre mes compétences au service du développement de model précis qui répondent aux besoins spécifiques des entreprises, en combinant data, stratégie et leadership.
 Contact
 •	LinkedIn: www.linkedin.com/in/christine-tsafong-427b4a2a5
