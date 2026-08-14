@@ -1,4 +1,6 @@
 Christine Tsafong M.N Business Intelligence Analyst, README 
+
+
  Présentation
 Je suis Christine, Business Intelligence Analyste spécialisée dans la transformation des données en leviers de performance. Mon parcours unique, mêlant analyse de données, gestion d’entreprise, finance, et optimisation opérationnelle, me permet d’apporter une vision à la fois technique, stratégique et orientée résultats.
 Je crée des solutions analytiques qui clarifient, optimisent et accélèrent la prise de décision dans les organisations.
