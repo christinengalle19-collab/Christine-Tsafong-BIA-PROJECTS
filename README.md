@@ -72,7 +72,9 @@ Compétences clés
 Vision professionnelle
 
 Je veux contribuer à la croissance des organisations en développant des solutions analytiques qui créent de la valeur, réduisent les incertitudes, et renforcent la performance. À long terme, je souhaite mettre mes compétences au service du développement de model précis qui répondent aux besoins spécifiques des entreprises, en combinant data, stratégie et leadership.
-Contact
+
+
+Contacts
 •	LinkedIn: www.linkedin.com/in/christine-tsafong-427b4a2a5
 •	Email: christinengalle19@gmail.com
 
