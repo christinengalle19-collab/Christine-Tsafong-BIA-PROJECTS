@@ -12,7 +12,7 @@ J’aide les entreprises à:
 •	Anticiper leurs revenus et leurs risques
 •	Optimiser leurs coûts et leurs processus
 •	Visualiser leurs données de manière claire et actionnable
-•	Prendre des décisions plus rapides, plus sûres et plus rentables
+•	Prendre des décisions plus rapides, plus sûres et plus rentables. 
 Je me distingue par ma capacité à structurer le chaos, à simplifier le complexe, et à produire des analyses qui créent de la valeur immédiatement.
 
 Pourquoi Moi?
